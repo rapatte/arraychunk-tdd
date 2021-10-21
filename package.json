@@ -1,0 +1,19 @@
+{
+  "name": "arraychunk-tdd",
+  "version": "1.0.0",
+  "description": "algo qui divise un array en plusieurs subarrays de taille donnée",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapatte/arraychunk-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapatte/arraychunk-tdd/issues"
+  },
+  "homepage": "https://github.com/rapatte/arraychunk-tdd#readme"
+}
